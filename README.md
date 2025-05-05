@@ -94,8 +94,3 @@ python test_main.py
 
 Este projeto foi feito com fins educacionais. Fique à vontade para contribuir com melhorias, testes adicionais ou feedback.
 
----
-
-## 📬 Contato
-
-Caso tenha dúvidas ou sugestões, entre em contato!
