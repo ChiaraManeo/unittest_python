@@ -81,12 +81,10 @@ Sempre que um novo código for enviado para o repositório, os testes são execu
 ## 🚀 Como Clonar e Rodar
 
 ```bash
-git clone https://github.com/seu-usuario/unittest-project.git
+git clone https://github.com/ChiaraManeo/unittest_python.git
 cd unittest-project
 python test_main.py
 ```
-
-> Substitua `seu-usuario` pelo seu nome de usuário no GitHub.
 
 ---
 
