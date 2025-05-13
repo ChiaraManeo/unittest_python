@@ -1,5 +1,5 @@
 import unittest
-from test_main import TestOperacoesMatematicas 
+from test_main import TestOutrasOperacoes
 from test_main import TestCalculadora
 
 suite = unittest.TestSuite()
